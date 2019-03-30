@@ -1,17 +1,25 @@
-class Main {
-  lol () {
-    console.log('m');
+class Add {
+  constructor(first, second) {
+    this.first = first;
+    this.second = second;
+  }
+  action () {
+    return this.first + this.second
   }
 }
 
-class Class {
-  lol () {
-    console.log('le');
+class Minus {
+  constructor(first, second) {
+    this.first = first;
+    this.second = second;
+  }
+  action () {
+    return this.first - this.second
   }
 }
 
-let a = new Class;
-let b = new Main;
+let add = new Add(2, 5);
+let minus = new Minus(2, 5);
 
-a.lol();
-b.lol();
+console.log(add.action());
+console.log(minus.action());
