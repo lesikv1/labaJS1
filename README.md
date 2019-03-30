@@ -12,6 +12,8 @@ link https://nodejs.org/uk/
 
 link https://www.npmjs.com/
 
+install library - `npm i`
+
 build - `npm run build`
 
 run - `npm start`
