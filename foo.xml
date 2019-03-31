@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<root label="laba1"
+><Add>result 7</Add>
+<Minus>result -3</Minus>
+<Multiply>result 10</Multiply>
+<Share>result 0.4</Share>
+<Const>result 5</Const>
+<Polinom>result 128</Polinom>
+<Simpson>result 7</Simpson>
+<X>result 5</X>
+<Sin>result 0.9092974268256817</Sin>
+<Cos>result -0.4161468365471424</Cos>
+<Ctn>result -0.45765755436028577</Ctn>
+<Tg>result -2.185039863261519</Tg>
+<Exp>result 7.38905609893065</Exp>
+<Exp>result 7.38905609893065</Exp>
+<Ln>result 0.6931471805599453</Ln>
+<E>result 54.59815003322093</E>
+<A>result 2</A>
+</root>
